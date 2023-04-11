@@ -1,0 +1,21 @@
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\bin\Debug\Задание2.exe.config
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\bin\Debug\Задание2.exe
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\bin\Debug\Задание2.pdb
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\obj\Debug\Задание2.csproj.AssemblyReference.cache
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\obj\Debug\Задание2.Form1.resources
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\obj\Debug\Задание2.Properties.Resources.resources
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\obj\Debug\Задание2.csproj.GenerateResource.cache
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\obj\Debug\Задание2.csproj.CoreCompileInputs.cache
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\obj\Debug\Задание2.exe
+C:\Users\305-8\Desktop\Колупаев\15.03.23\Задание2\Задание2\obj\Debug\Задание2.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\bin\Debug\Задание2.exe.config
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\bin\Debug\Задание2.exe
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\bin\Debug\Задание2.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.Form1.resources
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.Properties.Resources.resources
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.csproj.GenerateResource.cache
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.exe
+C:\Users\Александр\OneDrive\Рабочий стол\InWork-main\15.03.23\Задание2\Задание2\obj\Debug\Задание2.pdb

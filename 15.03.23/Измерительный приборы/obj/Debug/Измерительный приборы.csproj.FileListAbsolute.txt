@@ -1,0 +1,53 @@
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\bin\Debug\Измерительный приборы.exe.config
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\bin\Debug\Измерительный приборы.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\bin\Debug\Измерительный приборы.pdb
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.AssemblyReference.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный_приборы.Form1.resources
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный_приборы.Properties.Resources.resources
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.GenerateResource.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.CoreCompileInputs.cache
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный приборы.exe
+C:\Users\Александр\OneDrive\Рабочий стол\Колупаев Александр\Измерительный приборы\Измерительный приборы\obj\Debug\Измерительный приборы.pdb
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.exe.config
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.exe
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.pdb
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.AssemblyReference.cache
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный_приборы.Form1.resources
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный_приборы.Properties.Resources.resources
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.GenerateResource.cache
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.CoreCompileInputs.cache
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.exe
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.pdb
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\ClassLibrary1.dll
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\ClassLibrary1.pdb
+C:\Users\325L-01\Desktop\Колупае\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.CopyComplete
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.exe.config
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.exe
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.pdb
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\ClassLibrary1.dll
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\ClassLibrary1.pdb
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.AssemblyReference.cache
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.SuggestedBindingRedirects.cache
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный_приборы.Form1.resources
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный_приборы.Properties.Resources.resources
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.GenerateResource.cache
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.CopyComplete
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.exe
+C:\Users\Александр\Downloads\kkkkk-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.pdb
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.exe.config
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.exe
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\Измерительный приборы.pdb
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\ClassLibrary1.dll
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\bin\Debug\ClassLibrary1.pdb
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.AssemblyReference.cache
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный_приборы.Form1.resources
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный_приборы.Properties.Resources.resources
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.GenerateResource.cache
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.CoreCompileInputs.cache
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.csproj.CopyComplete
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.exe
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\reimagined-succotash-main\Практическая 13\15.03.23\Измерительный приборы\obj\Debug\Измерительный приборы.pdb

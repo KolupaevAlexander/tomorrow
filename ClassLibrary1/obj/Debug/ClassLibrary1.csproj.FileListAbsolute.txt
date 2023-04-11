@@ -1,0 +1,12 @@
+C:\Users\325L-01\Desktop\Колупае\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\325L-01\Desktop\Колупае\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\325L-01\Desktop\Колупае\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\325L-01\Desktop\Колупае\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\325L-01\Desktop\Колупае\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\325L-01\Desktop\Колупае\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\325L-01\Desktop\Колупае\new-main\kkkkk-main\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
